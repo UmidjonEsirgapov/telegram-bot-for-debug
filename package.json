@@ -1,0 +1,17 @@
+{
+    "name": "tele-bot-umid",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "strat": "nodemon node index.js"
+    },
+    "author": "Umidjon Esirgapov",
+    "license": "ISC",
+    "dependencies": {
+        "node-telegram-bot-api": "^0.40.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
